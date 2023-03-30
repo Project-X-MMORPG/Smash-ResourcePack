@@ -1,0 +1,16 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/map"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":100}, "model": "eternalcore:item/icons/button_3_lives"},
+        {"predicate": {"custom_model_data":101}, "model": "eternalcore:item/icons/button_5_lives"},
+
+        {"predicate": {"custom_model_data":200}, "model": "eternalcore:item/icons/smash_coin"},
+        {"predicate": {"custom_model_data":201}, "model": "eternalcore:item/icons/smash_life"},
+        {"predicate": {"custom_model_data":202}, "model": "eternalcore:item/icons/smash_next_round"},
+        {"predicate": {"custom_model_data":203}, "model": "eternalcore:item/icons/smash_vote"}
+
+    ]
+}

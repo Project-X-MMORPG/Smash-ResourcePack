@@ -1,0 +1,48 @@
+{
+	"providers": [
+        {"type": "bitmap", "file": "eternalcore_font:pixel.png","ascent": -2000,"height": -3,"chars": ["\uE128"]},
+		{"type": "bitmap", "file": "eternalcore_font:pixel.png","ascent": -2000,"height": -3,"chars": ["\uFFFF"]},
+
+        {"type": "bitmap", "file": "eternalcore_font:gui/gui_smash_characters_eng.png","ascent": 40,"height": 120,"chars": ["\uE130"]},
+		{"type": "bitmap", "file": "eternalcore_font:gui/gui_smash_characters_ger.png","ascent": 40,"height": 120,"chars": ["\uE131"]},
+        {"type": "bitmap", "file": "eternalcore_font:gui/gui_smash_shop.png","ascent": 40,"height": 84,"chars": ["\uE132"]},
+        {"type": "bitmap", "file": "eternalcore_font:gui/gui_smash_voting_life_eng.png","ascent": 40,"height": 84,"chars": ["\uE133"]},
+        {"type": "bitmap", "file": "eternalcore_font:gui/gui_smash_voting_life_ger.png","ascent": 40,"height": 84,"chars": ["\uE134"]},
+        {"type": "bitmap", "file": "eternalcore_font:gui/gui_smash_voting_map_eng.png","ascent": 40,"height": 84,"chars": ["\uE135"]},
+        {"type": "bitmap", "file": "eternalcore_font:gui/gui_smash_voting_map_ger.png","ascent": 40,"height": 84,"chars": ["\uE136"]},
+
+
+		{"file": "eternalcore_font:ranks/icon_lead.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_admin.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_manager.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_senior_game_master.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_game_master.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_junior_game_master.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_staff.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_developer.png","chars": ["\uE230"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_junior_developer.png","chars": ["\uE231"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_junior_map_designer.png","chars": ["\uE232"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_junior_supporter.png","chars": ["\uE233"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_map_designer.png","chars": ["\uE234"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_senior_developer.png","chars": ["\uE235"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_senior_map_designer.png","chars": ["\uE236"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_senior_supporter.png","chars": ["\uE237"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_supporter.png","chars": ["\uE238"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_vip_partner.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_partner.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_creator_plus.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_creator.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_vip.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_master.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_elite.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_pro.png","chars": [	""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_premium.png","chars": [	""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_player.png","chars": [""],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_senior_game_designer.png","chars": ["\uE248"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_game_designer.png","chars": ["\uE249"],"height": 7,"ascent": 7,"type": "bitmap"},
+		{"file": "eternalcore_font:ranks/icon_junior_game_designer.png","chars": ["\uE250"],"height": 7,"ascent": 7,"type": "bitmap"},
+
+		{"type": "bitmap", "file": "eternalcore_font:ranks/afk.png","ascent": 7,"height": 7,"chars": ["\uE262"]}
+
+	]
+}

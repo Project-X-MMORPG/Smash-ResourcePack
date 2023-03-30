@@ -1,0 +1,19 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/iron_ingot"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":100}, "model": "eternalcore:item/powerups/smash_drill"},
+        {"predicate": {"custom_model_data":101}, "model": "eternalcore:item/powerups/smash_firestick"},
+        {"predicate": {"custom_model_data":102}, "model": "eternalcore:item/powerups/smash_grenade"},
+        {"predicate": {"custom_model_data":103}, "model": "eternalcore:item/powerups/smash_jetpack"},
+        {"predicate": {"custom_model_data":104}, "model": "eternalcore:item/powerups/smash_fireflower"},
+        {"predicate": {"custom_model_data":105}, "model": "eternalcore:item/powerups/smash_minigun"},
+        {"predicate": {"custom_model_data":106}, "model": "eternalcore:item/powerups/smash_nuke"},
+        {"predicate": {"custom_model_data":107}, "model": "eternalcore:item/powerups/smash_reset_map"},
+        {"predicate": {"custom_model_data":108}, "model": "eternalcore:item/powerups/smash_spoon"},
+        {"predicate": {"custom_model_data":109}, "model": "eternalcore:item/powerups/smash_tornado"},
+        {"predicate": {"custom_model_data":110}, "model": "eternalcore:item/powerups/smash_yoshi"}
+    ]
+}

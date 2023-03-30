@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/bow_pulling_0",
+    "textures": {
+      "layer0": "eternalcore:item/powerups/tnt_bow/smash_tnt_bow_pulling_0"
+    }
+
+}

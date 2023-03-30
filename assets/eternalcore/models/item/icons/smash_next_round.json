@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "eternalcore:item/icons/smash_next_round"
+    }
+
+}
