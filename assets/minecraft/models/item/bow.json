@@ -33,6 +33,8 @@
         { "predicate": {"custom_model_data": 100}, "model": "eternalcore:item/powerups/tnt_bow/smash_tnt_bow" },
         { "predicate": {"pulling":1, "custom_model_data": 100}, "model": "eternalcore:item/powerups/tnt_bow/smash_tnt_bow_pulling_0" },
         { "predicate": {"pulling":1, "pull":0.65, "custom_model_data": 100}, "model": "eternalcore:item/powerups/tnt_bow/smash_tnt_bow_pulling_1" },
-        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 100}, "model": "eternalcore:item/powerups/tnt_bow/smash_tnt_bow_pulling_2" }
+        { "predicate": {"pulling":1, "pull":0.9, "custom_model_data": 100}, "model": "eternalcore:item/powerups/tnt_bow/smash_tnt_bow_pulling_2" },
+
+        { "predicate": {"custom_model_data": 101}, "model": "eternalcore:item/powerups/smash_minigun" }
     ]
 }
